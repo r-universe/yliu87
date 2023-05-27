@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spfa"]
+	path = spfa
+	url = https://github.com/cran/spfa
+	shallow = true
+	registered = true
